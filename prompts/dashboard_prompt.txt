@@ -1,0 +1,71 @@
+Build a modern executive retail analytics dashboard using the following datasets:
+
+Sales Data:
+https://raw.githubusercontent.com/tapas-mahanta/retail-ai-dashboard-demo/main/retail_sample_sales_data.csv
+
+Price Elasticity Data:
+https://raw.githubusercontent.com/tapas-mahanta/retail-ai-dashboard-demo/main/Price_Elasticity_Sample.csv
+
+Objective:
+Create a consulting-grade dashboard that demonstrates how AI can accelerate business intelligence and decision-making.
+
+Dashboard Requirements:
+
+1. Executive KPI Section
+* Total Revenue
+* Total Units Sold
+* Average Selling Price
+* Number of Promotions
+* Average Price Elasticity
+
+2. Trend Analysis
+* Monthly Revenue Trend
+* Monthly Unit Sales Trend
+* Revenue by Brand
+* Revenue by Category
+
+3. Promotion Analytics
+* Promotion vs Non-Promotion Performance
+* Revenue Lift from Promotions
+* Units Lift from Promotions
+
+4. Product Performance
+* Top 10 SKUs by Revenue
+* Top 10 SKUs by Units Sold
+* Brand Contribution Analysis
+
+5. Price Elasticity Analytics
+* Elasticity Summary Table
+* Highly Responsive Products
+* Low Responsive Products
+* Elasticity Distribution Chart
+
+6. Interactive Filters
+* Brand
+* Category
+* SKU
+* Promotion Flag
+* Month
+
+7. AI Insights Panel
+   Generate executive insights automatically, including:
+
+* Best performing brands
+* Most effective promotions
+* Highly price-sensitive products
+* Revenue growth opportunities
+* Key business risks
+
+Design Requirements:
+* Modern consulting-style layout
+* Responsive dashboard
+* Professional executive look
+* Interactive charts
+* Clear business storytelling
+* Suitable for CEO, Commercial Director, or Head of Analytics audiences
+
+Add a dashboard header:
+"AI-Powered Retail Analytics Command Center"
+
+Include a subtitle:
+"From Business Question to Executive Insight in Minutes"
