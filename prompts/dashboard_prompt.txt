@@ -1,10 +1,6 @@
 Build a modern executive retail analytics dashboard using the following datasets:
 
-Sales Data:
-https://raw.githubusercontent.com/tapas-mahanta/retail-ai-dashboard-demo/main/retail_sample_sales_data.csv
-
-Price Elasticity Data:
-https://raw.githubusercontent.com/tapas-mahanta/retail-ai-dashboard-demo/main/Price_Elasticity_Sample.csv
+Using Supabase connector, create "Sales Data" and "Price Elasticity Data" tables using reatil_sales and price_elasticity tables.
 
 Objective:
 Create a consulting-grade dashboard that demonstrates how AI can accelerate business intelligence and decision-making.
@@ -59,6 +55,7 @@ Dashboard Requirements:
 Design Requirements:
 * Modern consulting-style layout
 * Responsive dashboard
+* Add a refresh data button which will reload updated data from the source
 * Professional executive look
 * Interactive charts
 * Clear business storytelling
